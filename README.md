@@ -4,7 +4,7 @@ Reusable notes and offline repair tools from porting Black Desert Online's Strik
 
 This is an experimental porting toolkit and case study. It is not a ready-to-install outfit download or a complete automated converter. Obtain your own source assets and target templates locally. Game archives, extracted meshes/textures, saves, executable dumps, and third-party tools are not included.
 
-![Current user-tested Inferno baseline](images/inferno-baseline.png)
+Screenshot publication is pending browser upload support.
 
 ## Current result
 
