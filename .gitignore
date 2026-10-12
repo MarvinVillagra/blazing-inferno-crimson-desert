@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+*.pac
+*.paz
+*.pamt
+*.papgt
+*.pab
+*.pabv
+*.dds
+*.exe
+*.dll
+*.asi
+*.sav
+.env*
