@@ -20,8 +20,9 @@ The accepted baseline combines covered-waist skin hiding, a local copy of the ta
 - [Findings and failed experiments](docs/findings.md)
 - [Offline tools](tools/README.md)
 - [Current baseline recipe](docs/baseline.md)
+- [Warrior shared-chart runtime test (2026-10-24)](docs/warrior-shared-chart-runtime-test-2026-10-24.md)
 
-The Python tools use the `cdmw` format parsers from [CDMW-Full](https://github.com/Ratty123/CDMW-Full). That project is a separate dependency with its own licensing. Place a compatible checkout's package root on `PYTHONPATH`; these tools refuse unsupported or mismatched inputs rather than guessing a binary layout. Python 3.12 was used for the local checks.
+The Python tools use the cdmw format parsers from [CDMW-Full](https://github.com/Ratty123/CDMW-Full). That project is a separate dependency with its own licensing. Place a compatible checkout's package root on PYTHONPATH; these tools refuse unsupported or mismatched inputs rather than guessing a binary layout. Python 3.12 was used for the local checks.
 
 ## Scope
 
